@@ -1,2 +1,16 @@
 # png-viewer
-A small app for showing png images, and 16-bit png in particular
+I found no simple applications for showing 16-bit png images. So I created this one based on imageio and matplotlib.
+
+To install run
+```
+python setup.py install
+```
+
+to use:
+
+```
+png-view filename.png
+```
+
+
+Cheers
